@@ -69,6 +69,20 @@ window.SITE = {
       placeLink: "https://www.ihp.fr/"
     },
     {
+      title: "Towards a conjecture of Gundlach",
+      date: "April 2025",
+      event: "Number theory seminar",
+      eventLink: "https://number-theory.ista.ac.at/",
+      place: "ISTA"
+    },
+    {
+      title: "On a paper of Wang about K3 surfaces of degree (2,2,2)",
+      date: "January 2025",
+      event: "Number theory seminar",
+      eventLink: "https://number-theory.ista.ac.at/",
+      place: "ISTA"
+    },
+    {
       title: "Counting integer points on Markoff type surfaces",
       date: "October 2024",
       event: "Number theory seminar",
