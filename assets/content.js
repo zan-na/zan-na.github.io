@@ -19,6 +19,13 @@ window.SITE = {
 
   papers: [
     {
+      title: "99.99% of cubic surfaces have a rational point",
+      coauthors: "Tim Browning",
+      venue: "Preprint",
+      year: 2026,
+      arxiv: "2611.33932"
+    },
+    {
       title: "Average density of rational points on quartic surfaces",
       coauthors: "",                 // for example "Ada Lovelace" or "A. Lovelace and E. Noether"; leave "" if you are the only author
       venue: "Preprint",             // journal name once it is published
